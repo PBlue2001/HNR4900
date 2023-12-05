@@ -1,0 +1,2 @@
+# Coding Projects
+Here are all my significant projects I have coded in my time at HPU. Significant projects meaning projects worth publishing to the outside world for either their literal use or educational value. As such, I have left out a few more complex/tedious projects as they have less value outside of something that needed to be turned in. These files represent my capacity to code ethically using open source standards and create meaningful projects that impact the lives of others.
