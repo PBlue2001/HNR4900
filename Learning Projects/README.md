@@ -1,1 +1,2 @@
+# Learning Projects
 Here are all my "Learning Projects" These are other significant projects that are not code, but can be related, like Zero-knowledge Proofs. Strengthening not just my coding skill but the interactions my job has with the outside world I think is just as important. These represent large research projects I have completed during my time here, and attest to my ability to research, develop, and write outside of the coding space. 
